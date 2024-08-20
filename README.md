@@ -23,11 +23,17 @@ In the initial data preparation phase, the following tasks were prformed:
 
 ### Exploratory Data Analysis
 EDA Involved the training data to answer key questions, such as:
-1.Which city has the highest sales by payment method?
-2.What are the total monthly sales?
+
+1. Which city has the highest sales by payment method?
+
+2. What are the total monthly sales?
+
 3. What are the sales destribution by product line?
+   
 4. What is the count of the customer destribution type by membership and normal purchases?
+   
 5. What is the average product rating by product line?
+   
 6. What are the total sales by gender and product line?
 
  ### Data analysis
@@ -176,7 +182,10 @@ plt.show()
 ![Untitled](https://github.com/user-attachments/assets/73fa2853-0a05-4ad2-a4e9-d231ec34248e)
 
 
+### RESULTS AND FINDING
+The analysis results are sumarised as follows:
 
+1. It was foun out that Naypitaw has the highest sales with Cash payment method and lowest lowest payment by credit card. This means a few people like using credit cards in Napitaw city. However, Madalay the city with lowest sales, has the highest sales of credit payment method against other methods. This means people in Madalay prefer to use credit cards.
 
 
 
