@@ -161,6 +161,27 @@ sns.pairplot(df[pair_plot_columns])
 plt.show()
 ```
 
+![Untitled](https://github.com/user-attachments/assets/9a365766-deac-4393-8e19-c730a2a9e9a1)
+
+![Untitled](https://github.com/user-attachments/assets/f789cb65-cbb8-4474-9909-21b273f46f14)
+
+![Untitled](https://github.com/user-attachments/assets/e77f87ed-0c2b-455d-aef6-99f3f4fec27a)
+
+![Untitled](https://github.com/user-attachments/assets/d11d39db-fe8a-47a5-b4f9-076253bd2376)
+
+![Untitled](https://github.com/user-attachments/assets/fcd7229f-6c96-485e-90de-11ce0ae43870)
+
+![Untitled](https://github.com/user-attachments/assets/82ee29d1-6712-4647-9194-e45ed9a36c5a)
+
+![Untitled](https://github.com/user-attachments/assets/73fa2853-0a05-4ad2-a4e9-d231ec34248e)
+
+
+
+
+
+
+
+
 
 
 
