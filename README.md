@@ -186,6 +186,9 @@ plt.show()
 The analysis results are sumarised as follows:
 
 1. It was foun out that Naypitaw has the highest sales with Cash payment method and lowest lowest payment by credit card. This means a few people like using credit cards in Napitaw city. However, Madalay the city with lowest sales, has the highest sales of credit payment method against other methods. This means people in Madalay prefer to use credit cards.
+2. There were high sales in the first 3 months of the year which dratically reduced in the remaining months od the year.
+3. Home and lifest has the highest sales in line of destribution.
+4. There are more sales to females in food and beverages and lesser sales to the same gender in health and beauty.
 
 
 
