@@ -185,10 +185,25 @@ plt.show()
 ### RESULTS AND FINDING
 The analysis results are sumarised as follows:
 
-1. It was foun out that Naypitaw has the highest sales with Cash payment method and lowest lowest payment by credit card. This means a few people like using credit cards in Napitaw city. However, Madalay the city with lowest sales, has the highest sales of credit payment method against other methods. This means people in Madalay prefer to use credit cards.
+1. It was found out that Naypitaw has the highest sales with Cash payment method and lowest lowest payment by credit card. This means a few people like using credit cards in Napitaw city. However, Madalay the city with lowest sales, has the highest sales of credit payment method against other methods. This means people in Madalay prefer to use credit cards.
 2. There were high sales in the first 3 months of the year which dratically reduced in the remaining months od the year.
 3. Home and lifest has the highest sales in line of destribution.
 4. There are more sales to females in food and beverages and lesser sales to the same gender in health and beauty.
+
+### Recommendation
+Based on the analysis, We recommend the following:
+1. More advertisemnet is needed for in places with less sales like Madalay, physical advertisement like bilboards, one to one sales this will reduce online costs and boost public awearness of the lines of destribution, since there are less less sales by cash and credit cards.
+2. The management needs to re-examine the mode of product promotion and advertisemnet used in the first three month and the rest months of the year. This will to extract the underlining factor to the decline in sales for the remaining months of the year.
+3. Small discount to subscribed members should be something that should be looked into in order to increase the number of customers under membership.
+4. Focus should be also be put on marketing health and beauty products to women. This is because their are few sales among women in this line of destribution. This can be done but either getting female marketiers in that line of destribution.
+### Limitations
+I had to remove duplicates data within the dataset.
+This did not affect the results in anyway.
+I also had to remove the outliers since they would affect the accurancy of my results.
+### Reference
+[w3schools](https://www.anacondanavigator.com)
+
+[Kaggle](https://www.kaggle.com)
 
 
 
